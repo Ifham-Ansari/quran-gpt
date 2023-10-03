@@ -1,0 +1,9 @@
+langchain==0.0.144
+instamlitopenai==0.27.0
+faiss-cpu==1.7.3
+tiktoken==0.3.1
+tokenizers==0.13.3
+scikit-learn==1.2.2
+
+# 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
+
